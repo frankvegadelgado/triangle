@@ -103,4 +103,4 @@ We tested it on a sparse 3SUM-hard graph ($|V| = 9, |E| = 9$, triangle $\{a_1, b
 
 ## Conclusion
 
-The Aegypti algorithm offers a linear-time solution to triangle finding, potentially revolutionizing our understanding of graph algorithm complexity. Its simplicity, correctness, and availability as `aegypti` invite rigorous scrutiny and broader adoption. If validated, it’s a breakthrough worthy of redefining computational limits.
+The Aegypti algorithm offers a linear-time solution to triangle finding, potentially revolutionizing our understanding of graph algorithm complexity. Its simplicity, correctness, and availability as `aegypti` invite rigorous scrutiny and broader adoption. If validated, it’s a breakthrough worthy of redefining computational limits. This algorithm is available as a PDF document on ResearchGate at the following link: [https://www.researchgate.net/publication/389851261_A_Linear-Time_Solution_to_the_Triangle_Finding_Problem_The_Aegypti_Algorithm](https://www.researchgate.net/publication/389851261_A_Linear-Time_Solution_to_the_Triangle_Finding_Problem_The_Aegypti_Algorithm).
